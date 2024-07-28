@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195080703262",
+    "project_id": "dovizup",
+    "storage_bucket": "dovizup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195080703262:android:3d9ed01c135ebf9d8f0d0f",
+        "android_client_info": {
+          "package_name": "com.mobilyazilim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWpxK77miupDoAq5qP7vcKL_95-tCoQ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "MobilYazilim",
+  "displayName": "MobilYazilim",
+  "expo": {
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "useExpoModules": false
+          }
+        }
+      ]
+    ]
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-9183486928016173~1165742359",
+    "ios_app_id": "ca-app-pub-9183486928016173~1165742359"
+  }
+}
